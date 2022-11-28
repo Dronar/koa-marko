@@ -1,0 +1,20 @@
+{
+  "name": "koa-marko",
+  "version": "0.0.1",
+  "description": "Marko.js middleware for Koa.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Koa",
+    "KoaJs",
+    "Marko",
+    "MarkoJs"
+  ],
+  "author": "Magnus Jonsson",
+  "license": "MIT",
+  "dependencies": {
+    "@marko/compiler": "^5.23.0"
+  }
+}
